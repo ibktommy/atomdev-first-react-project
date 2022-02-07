@@ -1,3 +1,10 @@
+# NOTE FROM ME
+
+To view the project in your browser as the project is not hosted online, download the code-zip files from my github.\
+Unzip the file on your computer and open the direct folder housing the codes using VS-code or your preferred editor. \
+Click the "App.js" file and open your "terminal" and run "npm install" so as to download all dependencies needed to run the "React App". \
+After installing all dependencies, run "npm start" to launch the project and view it in your browser. \
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
